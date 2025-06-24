@@ -1,5 +1,5 @@
 # MultiAgent_RAG
-Semantic_WebSearch
+## Semantic_WebSearch
 
 A sophisticated multilingual semantic search engine that uses AI to provide highly relevant search results and comprehensive summaries. Built with Streamlit, powered by Google's Gemini AI, and supporting both English and Nepali languages.
 
