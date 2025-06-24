@@ -19,17 +19,17 @@ A sophisticated multilingual semantic search engine that uses AI to provide high
 <summary>Click to view screenshots</summary>
 
 ### English Search Results
-![English Results](Images/2.png)
+![English Results](Images/5.png)
 
-
-### Google Search Results
-![Google Results](Images/4.png)
-
-### Nepali Search Results
-![Nepali Results](Images/5.png)
 
 ### Google Search Results
 ![Google Results](Images/7.png)
+
+### Nepali Search Results
+![Nepali Results](Images/2.png)
+
+### Google Search Results
+![Google Results](Images/4.png)
 
 
 </details>
