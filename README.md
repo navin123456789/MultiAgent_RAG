@@ -19,7 +19,7 @@ A sophisticated multilingual semantic search engine that uses AI to provide high
 <summary>Click to view screenshots</summary>
 
 ### English Search Results
-![English Results](Images/5.png)
+![English Results](Images/6.png)
 
 
 ### Google Search Results
