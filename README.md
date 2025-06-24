@@ -9,7 +9,6 @@ A sophisticated multilingual semantic search engine that uses AI to provide high
 - **Multilingual Support**: Full support for English and Nepali
 - **Smart Ranking**: AI-powered relevance scoring and document ranking
 - **Comprehensive Summaries**: Generates detailed summaries from highly relevant sources
-- **Domain-Specific Handling**: Special processing for sites like Daraz.com.np
 - **Social Media Filtering**: Automatically filters out social media noise
 - **Responsive UI**: Clean, modern interface with dark mode
   
